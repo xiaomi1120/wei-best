@@ -1,0 +1,23 @@
+{
+  "name": "wei-best-ui",
+  "version": "0.0.1",
+  "description": "Adhere to the original Dream",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "less": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaomi1120/wei-best.git"
+  },
+  "author": "Alimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaomi1120/wei-best/issues"
+  },
+  "homepage": "https://github.com/xiaomi1120/wei-best#readme"
+}
