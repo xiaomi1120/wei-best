@@ -1,3 +1,15 @@
+#header {
+  background: #4d926f;
+  height: 200px;
+  border: 3px solid #ffffa0;
+}
+#header {
+  color: #842210;
+}
+#footer {
+  color: #114411;
+  border-color: #7d2717;
+}
 body {
-  background: #ffff00;
+  color: #f00;
 }
